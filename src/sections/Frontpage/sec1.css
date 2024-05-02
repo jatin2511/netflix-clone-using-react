@@ -1,0 +1,12 @@
+.fpsec1{
+    background-image:url('../../assets/backgroundimage.jpg');
+    min-height: 96vh;
+    max-width: 100vw;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
+.searchsec{
+    margin-top: 10rem;
+}

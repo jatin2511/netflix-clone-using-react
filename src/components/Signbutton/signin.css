@@ -1,0 +1,9 @@
+.signin{
+    background: red;
+    color: white;
+    width: 6rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+    border: none;
+}

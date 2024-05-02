@@ -1,0 +1,36 @@
+.searchsec{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.searchsec > div{
+    line-height: 1.8em;
+}
+#unl{
+    font-size: 3rem;
+    font-weight: 800;
+}
+#wat{
+    font-size: 1.8rem;
+}
+#red{
+    font-size: 1.3rem;
+}
+#inp{
+    display: flex;
+    justify-content: space-around;
+    min-height: 3.5rem;
+       margin-top: 1rem;
+}
+#inp1{
+    margin-right: 8px;
+    background: none;
+    min-height: 3rem;
+    min-width: 22rem;
+    border-radius: 5px;
+    color:rgb(255, 255, 255);
+    font-size: 1.2rem;
+    padding: 5px;
+}

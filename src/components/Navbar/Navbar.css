@@ -1,0 +1,13 @@
+.navbar{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 0;
+}
+.langsign{
+    width: 17rem;
+    display: flex;
+    justify-content: space-between;
+}

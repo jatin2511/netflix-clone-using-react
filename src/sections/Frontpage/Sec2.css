@@ -1,0 +1,38 @@
+#sec2{
+    position: relative;
+    padding-top: 5%;
+    display: flex;
+    flex-direction: row;
+    min-height: 80vh;
+    background-color: black;
+    color: white;
+    align-items: center;
+    z-index: -2;
+}
+#leftsec2 ,rightsec2 {
+    flex-basis: 1;
+}
+#rightsec2{
+    position: relative;
+}
+#leftsec2{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0 10% 0 10%;
+}
+#enjoytv{
+    font-size: 3rem;
+    font-weight: 900;
+}
+#scrrec{
+    position: absolute;
+    top: 21%;
+    right: 14%;
+    z-index: -1;
+    width: 73%;
+}
+#tvimg{
+    display: block;
+}
